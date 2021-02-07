@@ -13,5 +13,6 @@
   <img align="left" alt="Maria Pires | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-</br>
+<br>
+
 #### I'm a software engineering student from Portugal 👩‍💻

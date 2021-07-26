@@ -1,5 +1,6 @@
-### Hi there, I'm Maria Pires <img src="https://cliply.co/wp-content/uploads/2020/03/392002950_SPARKLES_EMOJI_400px.gif" width="25px">
-
+ 
+ <img src="https://github.com/mariajbp/mariajbp/blob/main/git.png  ">  Follow me on: 
+ 
 <a href="https://www.facebook.com/mjbp00/">
   <img align="left" alt="Maria Pires | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
@@ -11,9 +12,7 @@
 </a>
 
 <br>
-
-#### I'm a software engineering student from Portugal 👩‍💻
-
+ 
 <!--
 <a href="https://twitter.com/mrjsbrgsprs">
   <img align="left" alt="Maria Pires | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

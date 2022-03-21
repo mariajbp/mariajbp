@@ -1,15 +1,18 @@
  
-## Hi, I'm Maria ✨
-
+# Hi, I'm Maria ✨
 
 - I'm a **software enginering student** finishing my master degree in **Machine Learning**.
 - I'm currently working on my master's thesis entitled *Developing Deep Learning Models for Compound Classification*.
 - Graphic design is **my passion**.
 
-**Languages**  
+
+## Languages
+
 mostly
 [![Python](https://img.shields.io/badge/-Python-c0bed8?style=flat-square&logo=python&logoColor=000000)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-c0bed8?style=flat-square&logo=javascript&logoColor=000000&labelColor=c0bed8&color=c0bed8)](https://www.javascript.com/) but also
+[![JavaScript](https://img.shields.io/badge/-JavaScript-c0bed8?style=flat-square&logo=javascript&logoColor=000000&labelColor=c0bed8&color=c0bed8)](https://www.javascript.com/) 
+
+but also
 ![Java](https://img.shields.io/badge/Java-c0bed8?style=flat-square&logo=java&logoColor=000000)
 ![Elixir](https://img.shields.io/badge/Elixir-c0bed8?style=flat-square&logo=elixir&logoColor=000000)
 ![C](https://img.shields.io/badge/C-c0bed8?style=flat-square&logo=c&logoColor=000000)
@@ -19,7 +22,7 @@ mostly
 ![MySQL](https://img.shields.io/badge/mysql-c0bed8?style=flat-square&logo=mysql&logoColor=000000)
 
 
-**Libraries and Frameworks**  
+## Libraries and Frameworks 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-C4AAF3?style=flat-square&logo=PyTorch&logoColor=000000)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-C4AAF3?style=flat-square&logo=TensorFlow&logoColor=000000)
@@ -40,7 +43,7 @@ mostly
 ![Xamarin](https://img.shields.io/badge/xamarin-C4AAF3?style=flat-square&logo=xamarin&logoColor=000000)
 
 
-**Design Tools**  
+## Design Tools
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-ECB8ED?style=flat-square&logo=adobe%20illustrator&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-ECB8ED?style=flat-square&logo=Figma&logoColor=000000)
@@ -50,7 +53,7 @@ mostly
 ![StoryBook](https://img.shields.io/badge/-Storybook-ECB8ED?style=flat-square&logo=storybook&logoColor=000000)
 
 
-**Some of my favourite tools/things on the internet**
+## Some of my favourite tools/things on the internet
 
 ![Notion](https://img.shields.io/badge/Notion-c0bed8?style=flat-square&logo=Notion&logoColor=000000)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-c0bed8?style=flat-square&logo=Stackoverflow&logoColor=000000)
@@ -58,7 +61,7 @@ mostly
 
 
 
-#### You can follow me on: 
+## You can follow me on
 
 [![Instagram](https://img.shields.io/badge/@mariajbpires-EDB8D9.svg?style=for-the-badge&logo=Instagram&logoColor=000000)](https://www.instagram.com/mariajbpires/)
 [![Twitter](https://img.shields.io/badge/@mrjsbrgsprs-EDB8D9.svg?style=for-the-badge&logo=Twitter&logoColor=000000)](https://twitter.com/mrjsbrgsprs)

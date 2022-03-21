@@ -1,9 +1,11 @@
  
 # Hi, I'm Maria ✨
 
-- I'm a **software enginering student** finishing my master degree in **Machine Learning**.
-- I'm currently working on my master's thesis entitled *Developing Deep Learning Models for Compound Classification*.
-- Graphic design is **my passion**.
+I'm a **software enginering student** finishing my master degree in **Machine Learning**.
+
+I'm currently working on my master's thesis entitled *Developing Deep Learning Models for Compound Classification*.
+
+Graphic design is **my passion**.
 
 
 ## Languages
